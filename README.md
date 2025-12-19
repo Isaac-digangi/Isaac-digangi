@@ -1,11 +1,19 @@
 <img width="918" height="255" alt="midnight_logo1" src="https://github.com/user-attachments/assets/ae5cf4a5-4efe-4a40-8500-4668bda662be" />
 
+## Hey :D i'm isaac
+### I do a little bit of: javascript, css, html, python, and java
 
+__Find me on bloxd.io as "M1DNIGHT_SV"__
+I make fun codes for worlds lobbies :D
+(Rn i'm making speedrun and manhunt gamemodes lol)
+
+_if you want to find me i'm usually on survival lobbies: 13, 123456, & 100_
+
+that's pretty much it
+check out the bloxd io codes repository for some cool stuff :D
 
 <!--
-**Isaac-digangi/Isaac-digangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
