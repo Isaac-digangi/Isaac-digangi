@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="1024" height="1024" alt="midnight_logo" src="https://github.com/user-attachments/assets/49aa9536-2274-4635-ba17-13e473b01328" />
+
 
 <!--
 **Isaac-digangi/Isaac-digangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
