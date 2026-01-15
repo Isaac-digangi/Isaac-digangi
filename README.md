@@ -5,7 +5,7 @@
 
 __Find me on bloxd.io as "M1DNIGHT_SV"__
 I make fun codes for worlds lobbies :D
-(Rn i'm making speedrun and manhunt gamemodes lol)
+(you should visit "cps.pvp" it's a lobby i made that has a cps counter lol)
 
 _if you want to find me i'm usually on survival lobbies: 13, 123456, & 100_
 
