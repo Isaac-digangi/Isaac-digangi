@@ -4,6 +4,7 @@
 ### I do a little bit of: javascript, css, html, python, and java
 
 __Find me on bloxd.io as "M1DNIGHT_SV"__
+_*right now im banned so i wont be able to do anything for a while (maybe permanent)*_
 I make fun codes for worlds lobbies :D
 (you should visit "cps.pvp" it's a lobby i made that has a cps counter lol)
 
